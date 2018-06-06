@@ -1,0 +1,19 @@
+CREATE TRIGGER [dbo].[NameOfTriggerOut] ON [dbo].[Orders]
+AFTER INSERT  
+AS
+DECLARE 
+@id INT,
+@itemCode VARCHAR(15),
+@quantity INT,
+@itemID INT;
+BEGIN
+	SELECT @id = MAX([OrderID]) FROM [dbo].[Orders];  
+	SELECT @itemCode = [ItemCode] FROM [dbo].[Orders] WHERE [OrderID] = @id;
+	SELECT @quantity = [Quantity] FROM [dbo].[Orders] WHERE [OrderID] = @id;
+	WHILE @quantity = 0
+	select @itemID = [ItemID] from [dbo].[Stock] where [ItemCode]
+	UPDATE [dbo].[Stock] SET [Stock] = @quantity WHERE [ItemID] = @id;
+END;
+
+select max([ItemID]) from [dbo].[Stock] where [ItemCode] = 'S9400';  
+select sum([Stock]) from [dbo].[Stock] where [ItemCode] = 'S9400';

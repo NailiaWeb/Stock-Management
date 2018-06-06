@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ShopJeansDataSet3" targetNamespace="http://tempuri.org/ShopJeansDataSet3.xsd" xmlns:mstns="http://tempuri.org/ShopJeansDataSet3.xsd" xmlns="http://tempuri.org/ShopJeansDataSet3.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ShopJeansConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ShopJeansConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.OrderManageForShop.Properties.Settings.GlobalReference.Default.ShopJeansConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="RemainsStockTableAdapter" GeneratorDataComponentClassName="RemainsStockTableAdapter" Name="RemainsStock" UserDataComponentName="RemainsStockTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ShopJeansConnectionString (Settings)" DbObjectName="ShopJeans.dbo.RemainsStock" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Stock FROM dbo.RemainsStock</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Stock" DataSetColumn="Stock" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ShopJeansDataSet3" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="ShopJeansDataSet3" msprop:Generator_UserDSName="ShopJeansDataSet3">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="RemainsStock" msprop:Generator_TableClassName="RemainsStockDataTable" msprop:Generator_TableVarName="tableRemainsStock" msprop:Generator_TablePropName="RemainsStock" msprop:Generator_RowDeletingName="RemainsStockRowDeleting" msprop:Generator_RowChangingName="RemainsStockRowChanging" msprop:Generator_RowEvHandlerName="RemainsStockRowChangeEventHandler" msprop:Generator_RowDeletedName="RemainsStockRowDeleted" msprop:Generator_UserTableName="RemainsStock" msprop:Generator_RowChangedName="RemainsStockRowChanged" msprop:Generator_RowEvArgName="RemainsStockRowChangeEvent" msprop:Generator_RowClassName="RemainsStockRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Stock" msprop:Generator_ColumnVarNameInTable="columnStock" msprop:Generator_ColumnPropNameInRow="Stock" msprop:Generator_ColumnPropNameInTable="StockColumn" msprop:Generator_UserColumnName="Stock" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,106 @@
+C:\Users\nlatf\source\repos\OrderManageForShop\OrderManageForShop\bin\Debug\OrderManageForShop.exe.config
+C:\Users\nlatf\source\repos\OrderManageForShop\OrderManageForShop\bin\Debug\OrderManageForShop.exe
+C:\Users\nlatf\source\repos\OrderManageForShop\OrderManageForShop\bin\Debug\OrderManageForShop.pdb
+C:\Users\nlatf\source\repos\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.csprojResolveAssemblyReference.cache
+C:\Users\nlatf\source\repos\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.Properties.Resources.resources
+C:\Users\nlatf\source\repos\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.csproj.GenerateResource.Cache
+C:\Users\nlatf\source\repos\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.csproj.CoreCompileInputs.cache
+C:\Users\nlatf\source\repos\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.exe
+C:\Users\nlatf\source\repos\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.pdb
+C:\Users\nlatf\source\repos\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.PlaceOrderForm1.resources
+C:\Users\nlatf\source\repos\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.ViewForm2.resources
+C:\Users\nlatf\source\repos\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.AddForm3.resources
+C:\Users\nlatf\source\repos\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.EditForm4.resources
+C:\Users\nlatf\source\repos\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.RemoveForm5.resources
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\bin\Debug\OrderManageForShop.exe.config
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\bin\Debug\OrderManageForShop.exe
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\bin\Debug\OrderManageForShop.pdb
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.csprojResolveAssemblyReference.cache
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.AddForm3.resources
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.EditForm4.resources
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.PlaceOrderForm1.resources
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.Properties.Resources.resources
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.RemoveForm5.resources
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.ViewForm2.resources
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.csproj.GenerateResource.Cache
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.exe
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.pdb
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\bin\Debug\EntityFramework.dll
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\bin\Debug\EntityFramework.SqlServer.dll
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\bin\Debug\EntityFramework.xml
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\bin\Debug\EntityFramework.SqlServer.xml
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.csproj.CoreCompileInputs.cache
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\bin\Debug\OrderManageForShop.exe.config
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\bin\Debug\OrderManageForShop.exe
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\bin\Debug\OrderManageForShop.pdb
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\bin\Debug\EntityFramework.dll
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\bin\Debug\EntityFramework.xml
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.csprojResolveAssemblyReference.cache
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.AddForm3.resources
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.EditForm4.resources
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.PlaceOrderForm1.resources
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.Properties.Resources.resources
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.RemoveForm5.resources
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.ViewForm2.resources
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.csproj.GenerateResource.cache
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.csproj.CoreCompileInputs.cache
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.csproj.CopyComplete
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.exe
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop\OrderManageForShop\obj\Debug\OrderManageForShop.pdb
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018\OrderManageForShop\bin\Debug\OrderManageForShop.exe.config
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018\OrderManageForShop\bin\Debug\OrderManageForShop.exe
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018\OrderManageForShop\bin\Debug\OrderManageForShop.pdb
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018\OrderManageForShop\bin\Debug\EntityFramework.dll
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018\OrderManageForShop\bin\Debug\EntityFramework.SqlServer.dll
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018\OrderManageForShop\bin\Debug\EntityFramework.xml
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018\OrderManageForShop\bin\Debug\EntityFramework.SqlServer.xml
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018\OrderManageForShop\obj\Debug\OrderManageForShop.csprojResolveAssemblyReference.cache
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018\OrderManageForShop\obj\Debug\OrderManageForShop.AddForm3.resources
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018\OrderManageForShop\obj\Debug\OrderManageForShop.EditForm4.resources
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018\OrderManageForShop\obj\Debug\OrderManageForShop.PlaceOrderForm1.resources
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018\OrderManageForShop\obj\Debug\OrderManageForShop.Properties.Resources.resources
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018\OrderManageForShop\obj\Debug\OrderManageForShop.RemoveForm5.resources
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018\OrderManageForShop\obj\Debug\OrderManageForShop.ViewForm2.resources
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018\OrderManageForShop\obj\Debug\OrderManageForShop.csproj.GenerateResource.Cache
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018\OrderManageForShop\obj\Debug\OrderManageForShop.csproj.CoreCompileInputs.cache
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018\OrderManageForShop\obj\Debug\OrderManageForShop.exe
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018\OrderManageForShop\obj\Debug\OrderManageForShop.pdb
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018 - Copy\OrderManageForShop\bin\Debug\OrderManageForShop.exe.config
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018 - Copy\OrderManageForShop\bin\Debug\OrderManageForShop.exe
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018 - Copy\OrderManageForShop\bin\Debug\OrderManageForShop.pdb
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018 - Copy\OrderManageForShop\bin\Debug\EntityFramework.dll
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018 - Copy\OrderManageForShop\bin\Debug\EntityFramework.SqlServer.dll
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018 - Copy\OrderManageForShop\bin\Debug\EntityFramework.xml
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018 - Copy\OrderManageForShop\bin\Debug\EntityFramework.SqlServer.xml
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018 - Copy\OrderManageForShop\obj\Debug\OrderManageForShop.csprojResolveAssemblyReference.cache
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018 - Copy\OrderManageForShop\obj\Debug\OrderManageForShop.AddForm3.resources
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018 - Copy\OrderManageForShop\obj\Debug\OrderManageForShop.EditForm4.resources
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018 - Copy\OrderManageForShop\obj\Debug\OrderManageForShop.PlaceOrderForm1.resources
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018 - Copy\OrderManageForShop\obj\Debug\OrderManageForShop.Properties.Resources.resources
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018 - Copy\OrderManageForShop\obj\Debug\OrderManageForShop.ViewForm2.resources
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018 - Copy\OrderManageForShop\obj\Debug\OrderManageForShop.csproj.GenerateResource.Cache
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018 - Copy\OrderManageForShop\obj\Debug\OrderManageForShop.csproj.CoreCompileInputs.cache
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018 - Copy\OrderManageForShop\obj\Debug\OrderManageForShop.exe
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018 - Copy\OrderManageForShop\obj\Debug\OrderManageForShop.pdb
+E:\Nailia_John Abbott\Visual Basic .Net  C#\Final Project\OrderManageForShop-17-05-2018 - Copy\OrderManageForShop\obj\Debug\OrderManageForShop.ChartForm5.resources
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\bin\Debug\OrderManageForShop.exe.config
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\bin\Debug\OrderManageForShop.exe
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\bin\Debug\OrderManageForShop.pdb
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\bin\Debug\EntityFramework.dll
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\bin\Debug\EntityFramework.xml
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\obj\Debug\OrderManageForShop.csprojResolveAssemblyReference.cache
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\obj\Debug\OrderManageForShop.AddForm3.resources
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\obj\Debug\OrderManageForShop.EditForm4.resources
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\obj\Debug\OrderManageForShop.PlaceOrderForm1.resources
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\obj\Debug\OrderManageForShop.Properties.Resources.resources
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\obj\Debug\OrderManageForShop.ChartForm5.resources
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\obj\Debug\OrderManageForShop.ViewForm2.resources
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\obj\Debug\OrderManageForShop.csproj.GenerateResource.cache
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\obj\Debug\OrderManageForShop.csproj.CoreCompileInputs.cache
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\obj\Debug\OrderManageForShop.csproj.CopyComplete
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\obj\Debug\OrderManageForShop.exe
+C:\Users\ipd13\Desktop\Nailia\Visual Basic .Net  C#\Final Project\OrderManageForShop-21-05-2018 - Final\OrderManageForShop\obj\Debug\OrderManageForShop.pdb

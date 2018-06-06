@@ -1,0 +1,11 @@
+CREATE TRIGGER [dbo].[NameOfTrigger] ON [dbo].[Stock]  
+AFTER INSERT  
+AS
+DECLARE 
+@id INT,
+@quantity INT;
+BEGIN
+	SELECT @id = MAX([ItemID]) FROM [dbo].[Stock];  
+	SELECT @quantity = [TotalQuantity] FROM [dbo].[Stock] WHERE [ItemID] = @id;
+	UPDATE [dbo].[Stock] SET [Stock] = @quantity WHERE [ItemID] = @id;
+END;  
